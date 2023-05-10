@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋.I'm Gautam and I have just started my programming journey.Wish me luck!
 
 <!--
 **capricode-ui/capricode-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
