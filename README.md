@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capricode-ui" alt="capricode-ui" /></a> </p>
 
-- 🌱 I’m currently learning **django , MERN stack , tenserflow**
+- 🌱 I’m currently learning **django , MERN stack , tenserflow , keras **
 
 - 📫 How to reach me **gprajhans@gmail.com**
 
