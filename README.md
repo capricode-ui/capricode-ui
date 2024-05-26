@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gautam Rajhans!</h1>
-<h3 align="center">Passionate about web-development and AI</h3>
+<h3 align="center">Passionate about AI and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capricode-ui&label=Profile%20views&color=0e75b6&style=flat" alt="capricode-ui" /> </p>
 
